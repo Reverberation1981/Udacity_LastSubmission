@@ -1,0 +1,148 @@
+
+.body{
+    background-image: url(http://assets.natgeotv.com/Shows/14595.jpg);
+}
+
+.Begin{
+    display: block;
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    background-image: url(https://d1yn1kh78jj1rr.cloudfront.net/image/thumbnail/rDtN98Qoishumwih/graphicstock-wooden-boards-with-texture-as-clear-background_BC7KkuTbZ_thumb.jpg);
+    width: 50%;
+    height: 50%;
+    border-radius: 10%;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.items{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+.index{
+    display: block;
+    font-size: 45px;
+    color: Fuchsia;
+    border-style: solid;
+    border-color: purple;
+    width:165px; 
+    height:165px;
+    border-radius:150px;
+    box-sizing: border-box;
+    background-image: url(https://hdwallsource.com/img/2014/9/simple-backgrounds-17275-17831-hd-wallpapers.jpg);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    line-height: 3.4;
+    
+}
+
+.List{
+    display: block;
+    color: lime;
+    text-align: center;
+    font-size: 40px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+    box-sizing: border-box;
+    background-image: url(http://cdn.newsapi.com.au/image/v1/85fb305132eb20ebbb01af386983c8a1);
+    border-radius: 30%;
+}
+
+li{
+    width: 90%;
+}
+
+.Next{
+    display: block;
+    width: 200px;
+    text-align: center;
+    margin-top: 6%;
+    margin-bottom: 6%;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 15%;
+    background-color: aqua;
+    box-sizing: border-box;
+}
+
+.body2{
+    background-color: salmon;
+}
+
+#WWWhead{
+    text-align: center;
+    color: lime;
+}
+
+.TextBox{
+    background-color: grey;
+    border-style: solid;
+    border-color: gold;
+}
+
+#Basicshead{
+    text-align: center;
+    color: lime;
+    
+}
+
+#Examplefont{
+    color: lightgreen;
+}
+
+#Elementshead{
+    text-align: center;
+    color: lime;
+}
+
+#CSShead{
+    text-align: center;
+    color: lime;
+}
+
+.CSS{
+    background-color: grey;
+    padding-bottom: 25px;
+    border-style: solid;
+    border-color: gold;
+}
+
+
+
+.CSSimg{
+    display: block;
+    margin-left: 50px;
+    margin-right: auto;
+    height: 250px;
+    width: 375px;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px;
+    padding-right: 2px;
+    padding-bottom: 1px;
+}
+
+.Contact{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+    width: 500px;
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: navy;
+    background-color: gold;
+    text-align: center;
+    border-radius: 35%;
+}
+    
+
